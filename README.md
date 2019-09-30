@@ -1,2 +1,2 @@
 # Human-Motion-Detection
-Human Motion Detection and Notification System
+Automated Video Surveillance System has been developed to detect an object in a live video stream environment. The system proposed is a software module that can be used in with any kind of camera or computer system and processes image as fast as 220 frames per second. With this, any unlawful intrusion can be detected and notified to the user through an email with the screenshot. It makes use of the OpenCV python library and YOLO object detection model by training the convolutional neural network with COCO dataset. This makes the system extremely fast, more than 1000x faster than R-CNN.
